@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+a message in the end of readme file , please check it !!!!!!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -59,6 +60,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
@@ -68,3 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+When you want to use this app , please make sure that you are using it on local 3000 , because the translate api is only working on that server !!!!!!!!!
+Thank you
